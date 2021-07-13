@@ -1,0 +1,24 @@
+_repo: A-Jayhawker-in-Europe_65744
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgan, W. Y. (William Yoast)
+    alias: Morgan, William Yoast
+    birthdate: 1866
+    deathdate: 1932
+    gutenberg_agent_id: '53191'
+    url: http://www.gutenberg.org/2009/agents/53191
+    wikipedia: https://en.wikipedia.org/wiki/William_Yoast_Morgan
+description: ''
+gutenberg_issued: '2021-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Jayhawker in Europe
+url: http://www.gutenberg.org/ebooks/65744
